@@ -1,6 +1,9 @@
 //
 //  CloudKitHandler+Errors.swift
 //  Lychee
+//  
+//  Credit where credit is due: much of this borrowed from https://github.com/caiyue1993/IceCream,
+//  with very minor edits sprinkled throughout. It's kickass code.
 //
 //  Created by Ryan McGrath on 5/5/18.
 //  Copyright © 2018 Ryan McGrath. All rights reserved.
